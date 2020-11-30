@@ -6,6 +6,8 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [About, Archive]
 ---
 
+Currently pursuing a Masters in Computer Science at Georgia Institute of Technology.
+
 Talent for quickly mastering technology – well versed in Java, C, C++, Python, Assembly, and Unix.
 Have made use of the following frameworks/tools: Spring Boot, Apache Kafka, Cassandra, MySQL, Docker, Git, Redis
 Skilled at learning new concepts and programming languages quickly, working efficiently under pressure, and communicating ideas effectively.
