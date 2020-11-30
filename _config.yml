@@ -5,11 +5,11 @@ url: "https://VishSwami.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Vishal Swaminathan                               # site's title
 description: "My Website"                               # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+avatar: assets/img/avatar.jpeg                          # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: SomeIntro                                  # Change Blog header text
+header_text: My Projects                                # Change Blog header text
 header_feature_image: assets/img/pexels/triangular.jpeg # change Banner image
 footer_text: 
 
