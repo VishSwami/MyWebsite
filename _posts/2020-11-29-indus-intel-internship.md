@@ -5,8 +5,9 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-Used Maven and Spring Boot to design a RESTful API for machine-server data collection.
-Worked with Apache Kafka and Cassandra to implement distributed, fault-safe delivery and storage of machine health data.
-Worked on Industrial IOT & CNC Systems, wrote pipeline to collect information of machine operational & health parameters.
-Designed RESTful API to collect & manage device inventory and characteristics that enabled analytics team to generate alerts / recommendations.
-Used Java, XML/JSON, Eclipse, DropWizard, Github, JUnit, Mockito, Log4j, Maven, and CNC System Interfaces.
+During my internship at IndusIntel, I worked on prototyping the data collection scheme for CNC machines of 
+machine health and operational parameters. Due to the high volume of this type of data, alongside the scaling requirements
+I implemented this prototype with Cassandra, a NoSQL database model.
+
+For the machine-to-database pipeline, I implemented a RESTful API backed by Kafka in the interest of design simplicity and 
+fault-tolerance.
