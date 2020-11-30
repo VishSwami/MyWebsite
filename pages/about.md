@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Vishal
+title: About
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [About, Archive]
